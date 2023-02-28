@@ -6,18 +6,22 @@ Created on Thu Feb 16 14:13:17 2023
 """
 import numpy as np
 import pandas as pd
-    
+
+# import data 
 data = pd.read_csv("C:/Users/holst/OneDrive/Dokumenter/GitHub/snake_games/data/grades.csv")
 df = data
 
-df.columns
+# Renaming colums
+df.rename(columns = {"Mother's qualification": "mothers_education"}, inplace=True)
+df.rename(columns = {"Father's occupation": "fathers_education"}, inplace=True)
 
-#df.rename(columns = {"Marital status": "martial_status"}, inplace=True)
-#df.rename(columns = {"Curricular units 1st sem (credited)": "grades_1st_sem"}, inplace=True)
-print(np.corrcoef(Mother's occupation, Age at enrollment))
+# Running corrolation on variables
+corr_matrix = np.corrcoef(df["mothers_education"], df["fathers_education"])
+print(corr_matrix)
 
 
-""
+
+"""
 df.shape
 df.head
 df.columns
