@@ -1,2 +1,2 @@
 # Snake_games
- Game scores metacritic
+ academic success
