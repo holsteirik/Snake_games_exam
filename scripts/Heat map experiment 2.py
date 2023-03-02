@@ -11,7 +11,7 @@ df = data
 corr_matrix = df.corr()
 
 # create heatmap
-sns.heatmap(corr_matrix, cmap="binary", annot= True, annot_kws={"fontsize": 10})
+sns.heatmap(corr_matrix, cmap="Greens", annot= True, annot_kws={"fontsize": 10})
 
 # show plot
 plt.show()
