@@ -1,0 +1,2 @@
+# for å tømme cache
+git rm -r --cached data
