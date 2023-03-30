@@ -1,5 +1,8 @@
 # Snake_games
- academic success
+
+Dette er et datasett på akademisk suksess.
+Ved å kjøre script vil du lage et heatmap i form av en
+korrolasjonsmatrise.
 
 # data file 
 /data/test
