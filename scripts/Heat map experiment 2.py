@@ -3,10 +3,11 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+#%%
 # import data 
-data = pd.read_csv("C:/Users/holst/OneDrive/Dokumenter/GitHub/snake_games/data/test.csv")
+data = pd.read_csv("../data/test.csv")
 df = data
-
+#%%
 # calculate correlation matrix
 corr_matrix = df.corr()
 
