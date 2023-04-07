@@ -14,13 +14,13 @@ All scripts are written in python.
 [MIT](https://choosealicense.com/licenses/mit/)
 
  
-## Usage/Examples
+## Usage
 
-	run /scripts/kinds_versus_individuals in jupyter notbooks 	or scripts/data_barnehage in spyder.
+	run /scripts/kinds_versus_individuals in jupyter notbooks or scripts/data_barnehage in spyder.
 
-Both scripts do largely the same thing, and is based on the dataset in /data/data_barnehage
+Both scripts do the same thing, and is based on the dataset in /data/data_barnehage
 
-
+## Example
 ```python
 #Import packages
 import pandas as pd
@@ -40,7 +40,7 @@ t_stat1, p_value1 = ttest_ind(informert, uinformert, equal_var=False)
 print("Independent t-test results:")
 print("t-statistic: ", t_stat1)
 print("p-value: ", p_value1)
-
+```
 
 ## Acknowledgements
 
