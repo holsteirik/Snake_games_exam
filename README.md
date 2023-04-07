@@ -4,8 +4,8 @@
 Exam psy-3035 
 Eirik Holst
 
-## This project is the final exam of in the course psy-3035. 
-    All scripts are written in python.
+## This project is the final exam of course psy-3035. 
+All scripts are written in python.
 
 
 
@@ -13,10 +13,11 @@ Eirik Holst
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Code 
+ 
 ## Usage/Examples
 
-run /scripts/kinds_versus_individuals in jupyter notbooks or scripts/data_barnehage in spyder.
+	run /scripts/kinds_versus_individuals in jupyter notbooks 	or scripts/data_barnehage in spyder.
+
 Both scripts do largely the same thing, and is based on the dataset in /data/data_barnehage
 
 
