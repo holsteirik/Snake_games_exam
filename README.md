@@ -1,7 +1,6 @@
 
 # Python_kurs
 
-Exam psy-3035 
 Eirik Holst
 
 ## This project is the final exam of course psy-3035. 
@@ -44,12 +43,12 @@ print("p-value: ", p_value1)
 
 ## Acknowledgements
 
- Thank Jamie.
-    Thanks for letting me join this course in opening doors for
-    me  in so many ways
+ Thank you Jamie.
+    Thanks for all the doors you have opened for me
 
 Thank you Steffen and Marie 
     For feedback on my script
+
 ## Documentation
 
 [Documentation](https://github.com/holsteirik/Snake_games_exam)
