@@ -62,5 +62,5 @@ Cimpian, A. & Park, J. J. (2014). Tell Me About Pangolins! Evidence That Childre
 Holst, E. & Diflefsen, K. (2022). Er barn motivert til å lære om typer eller individer? En replikasjon [Unpublished manuscript]. Institutt for psykologi, Norges Arktiske universitet.
 ## Screenshots
 
-![Barplot Screenshot]([Barplot.png](https://postimg.cc/0bf38xRT))
-
+## Screenshot
+[![Barplot.png](https://i.postimg.cc/XYS0k72Y/Barplot.png)](https://postimg.cc/0bf38xRT)
