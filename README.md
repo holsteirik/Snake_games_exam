@@ -1,5 +1,5 @@
 
-# Python_kurs
+# Python_exam
 
 Exam psy-3035 
 Eirik Holst
@@ -11,7 +11,7 @@ How to use this project
 	1. Download files from https://github.com/holsteirik/Snake_games_exam
 	2. Run /scripts/kinds_versus_individuals in jupyter notbooks or scripts/data_barnehage in spyder.
 
-	Both scripts do largely the same thing, and is based on the dataset in /data/data_barnehage
+Both scripts do the same thing, and use the dataset /data/data_barnehage.
 
 ## License
 
@@ -29,7 +29,6 @@ from scipy.stats import ttest_1samp
 
 # Load the data
 data = pd.read_csv("../data/data_barnehage.csv", delimiter=";")
-df = data
 
 # Convert age column to floats
 data['alder'] = data['alder'].str.replace(',', '.').astype(float)
@@ -43,12 +42,12 @@ print("p-value: ", p_value1)
 
 ## Acknowledgements
 
- Thank Jamie.
-    Thanks for letting me join this course in opening doors for
-    me  in so many ways
+ Thank you Jamie.
+    For opening so many doors for me
 
 Thank you Steffen and Marie 
     For feedback on my script
+
 ## Documentation
 
 [Documentation](https://github.com/holsteirik/Snake_games_exam)
