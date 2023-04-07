@@ -11,7 +11,7 @@ df = data
 data['alder'] = data['alder'].str.replace(',', '.').astype(float)
 
 # Filter out the rows where age is less than 4
-filtered_data = data[data['alder'] >= 4]
+filtered_data = data[data['alder'] < 4]
 
 # Split the data into two separate data frames
 informert = filtered_data[filtered_data['betingelse'] == 'informert']['sum_dyr']
