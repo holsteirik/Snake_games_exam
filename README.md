@@ -49,24 +49,21 @@ print("p-value: ", p_value1)
 Thank you Steffen and Marie 
     For feedback on my script
 
-## Documentation
-
-[Documentation](https://github.com/holsteirik/Snake_games_exam)
-
 ## Authorship, how to contribute, and how to cite project provided
 Author: Eirik Holst
 
 How to contribute: To contribute to the project, you can fork the repository, make changes to your own copy, and then create a pull request to suggest changes to the original project
 
 How to cite (APA)
+
 Holsteirik, R. (2021). Snake_games_exam. GitHub. https://github.com/holsteirik/Snake_games_exam
 
-References:
+## References:
 Cimpian, A. & Park, J. J. (2014). Tell Me About Pangolins! Evidence That Children Are Motivated to Learn About Kinds. J Exp Psychol Gen, 143(1), 46-55. https://doi.org/10.1037/a0031687
 
 Holst, E. & Diflefsen, K. (2022). Er barn motivert til å lære om typer eller individer? En replikasjon [Unpublished manuscript]. Institutt for psykologi, Norges Arktiske universitet.
 
-## Screenshots
+## Screenshot
 
 [![Barplot.png](https://i.postimg.cc/XYS0k72Y/Barplot.png)](https://i.postimg.cc/XYS0k72Y/Barplot.png)
 
