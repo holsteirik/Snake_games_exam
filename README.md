@@ -53,7 +53,13 @@ Thank you Steffen and Marie
 
 [Documentation](https://github.com/holsteirik/Snake_games_exam)
 
-All code was written by Eirik Holst 2023
+## Authorship, how to contribute, and how to cite project provided
+Author: Eirik Holst
+
+How to contribute: To contribute to the project, you can fork the repository, make changes to your own copy, and then create a pull request to suggest changes to the original project
+
+How to cite (APA)
+Holsteirik, R. (2021). Snake_games_exam. GitHub. https://github.com/holsteirik/Snake_games_exam
 
 References:
 Cimpian, A. & Park, J. J. (2014). Tell Me About Pangolins! Evidence That Children Are Motivated to Learn About Kinds. J Exp Psychol Gen, 143(1), 46-55. https://doi.org/10.1037/a0031687
